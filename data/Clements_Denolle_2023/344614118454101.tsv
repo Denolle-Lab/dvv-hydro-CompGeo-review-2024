@@ -1,0 +1,169 @@
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2021-03-17 10:25:14 EDT       (nadww01)
+#
+# US Geological Survey groundwater levels
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 344614118454101 008N018W23F001S 
+# -----------------------------------------------------------------------------------
+#
+# The fields in this file include:
+# ---------------------------------
+# agency_cd     Agency code
+# site_no       USGS site number
+# site_tp_cd    Site type code
+# lev_dt        Date level measured
+# lev_tm        Time level measured
+# lev_tz_cd     Time datum
+# lev_va        Water-level value in feet below land surface
+# sl_lev_va     Water-level value in feet above specific vertical datum
+# sl_datum_cd   Referenced vertical datum
+# lev_status_cd Status
+# lev_agency_cd Measuring agency
+# lev_dt_acy_cd Water-level date-time accuracy
+# lev_acy_cd    Water-level accuracy
+# lev_src_cd    Source of measurement
+# lev_meth_cd   Method of measurement
+# lev_age_cd    Water-level approval status
+#
+# Referenced agency codes (lev_agency_cd) included in this output:
+#
+#     CA001      California Department of Water Resources
+#     USGS       U.S. Geological Survey
+#
+# Referenced site type codes (site_tp_cd) included in this output:
+#
+#     GW         Well
+#
+# Referenced vertical datum codes (sl_datum_cd) included in this output:
+#
+#     NAVD88     North American Vertical Datum of 1988
+#     NGVD29     National Geodetic Vertical Datum of 1929
+#
+# Referenced water-level site status codes (lev_status_cd) included in this output:
+#
+#     1          Static
+#
+# Referenced water-level date-time accuracy codes (lev_dt_acy_cd) included in this output:
+#
+#     D          Date is accurate to the Day
+#     m          Date is accurate to the Minute
+#
+# Referenced water-level accuracy codes (lev_acy_cd) included in this output:
+#
+#     ""         Not determined
+#
+# Referenced source of measurement codes (lev_src_cd) included in this output:
+#
+#     A          Reported by another government agency (do not use "A" if reported by owner, use "O").
+#     S          Measured by personnel of reporting agency.
+#
+# Referenced method of measurement codes (lev_meth_cd) included in this output:
+#
+#     O          Observed.
+#     S          Steel-tape measurement.
+#
+# Referenced water-level approval-status codes (lev_age_cd) included in this output:
+#
+#     A          Approved for publication -- Processing and review completed.
+#
+agency_cd	site_no	site_tp_cd	lev_dt	lev_tm	lev_tz_cd	lev_va	sl_lev_va	sl_datum_cd	lev_status_cd	lev_agency_cd	lev_dt_acy_cd	lev_acy_cd	lev_src_cd	lev_meth_cd	lev_age_cd
+USGS	344614118454101	GW	1958-11-25				3250.00	NGVD29	1	CA001	D		A	O	A
+USGS	344614118454101	GW	1958-11-25				3252.97	NAVD88	1	CA001	D		A	O	A
+USGS	344614118454101	GW	1958-11-25			120.00			1	CA001	D		A	O	A
+USGS	344614118454101	GW	1959-03-17				3285.70	NGVD29	1	CA001	D		A	O	A
+USGS	344614118454101	GW	1959-03-17				3288.67	NAVD88	1	CA001	D		A	O	A
+USGS	344614118454101	GW	1959-03-17			84.30			1	CA001	D		A	O	A
+USGS	344614118454101	GW	1959-10-19				3232.00	NGVD29	1	CA001	D		A	O	A
+USGS	344614118454101	GW	1959-10-19				3234.97	NAVD88	1	CA001	D		A	O	A
+USGS	344614118454101	GW	1959-10-19			138.00			1	CA001	D		A	O	A
+USGS	344614118454101	GW	1959-11-12				3255.00	NGVD29	1	CA001	D		A	O	A
+USGS	344614118454101	GW	1959-11-12				3257.97	NAVD88	1	CA001	D		A	O	A
+USGS	344614118454101	GW	1959-11-12			115.00			1	CA001	D		A	O	A
+USGS	344614118454101	GW	1960-03-08				3275.80	NGVD29	1	CA001	D		A	O	A
+USGS	344614118454101	GW	1960-03-08				3278.77	NAVD88	1	CA001	D		A	O	A
+USGS	344614118454101	GW	1960-03-08			94.20			1	CA001	D		A	O	A
+USGS	344614118454101	GW	1960-10-26				3247.80	NGVD29	1	CA001	D		A	O	A
+USGS	344614118454101	GW	1960-10-26				3250.77	NAVD88	1	CA001	D		A	O	A
+USGS	344614118454101	GW	1960-10-26			122.20			1	CA001	D		A	O	A
+USGS	344614118454101	GW	1960-11-15				3238.90	NGVD29	1	CA001	D		A	O	A
+USGS	344614118454101	GW	1960-11-15				3241.87	NAVD88	1	CA001	D		A	O	A
+USGS	344614118454101	GW	1960-11-15			131.10			1	CA001	D		A	O	A
+USGS	344614118454101	GW	1961-04-05				3264.20	NGVD29	1	CA001	D		A	O	A
+USGS	344614118454101	GW	1961-04-05				3267.17	NAVD88	1	CA001	D		A	O	A
+USGS	344614118454101	GW	1961-04-05			105.80			1	CA001	D		A	O	A
+USGS	344614118454101	GW	1961-10-19				3248.00	NGVD29	1	CA001	D		A	O	A
+USGS	344614118454101	GW	1961-10-19				3250.97	NAVD88	1	CA001	D		A	O	A
+USGS	344614118454101	GW	1961-10-19			122.00			1	CA001	D		A	O	A
+USGS	344614118454101	GW	1961-11-13				3253.00	NGVD29	1	CA001	D		A	O	A
+USGS	344614118454101	GW	1961-11-13				3255.97	NAVD88	1	CA001	D		A	O	A
+USGS	344614118454101	GW	1961-11-13			117.00			1	CA001	D		A	O	A
+USGS	344614118454101	GW	1962-03-27				3270.38	NGVD29	1	USGS	D		S	S	A
+USGS	344614118454101	GW	1962-03-27				3273.35	NAVD88	1	USGS	D		S	S	A
+USGS	344614118454101	GW	1962-03-27			99.62			1	USGS	D		S	S	A
+USGS	344614118454101	GW	1962-04-10				3277.30	NGVD29	1	CA001	D		A	O	A
+USGS	344614118454101	GW	1962-04-10				3280.27	NAVD88	1	CA001	D		A	O	A
+USGS	344614118454101	GW	1962-04-10			92.70			1	CA001	D		A	O	A
+USGS	344614118454101	GW	1962-11-09				3232.00	NGVD29	1	CA001	D		A	O	A
+USGS	344614118454101	GW	1962-11-09				3234.97	NAVD88	1	CA001	D		A	O	A
+USGS	344614118454101	GW	1962-11-09			138.00			1	CA001	D		A	O	A
+USGS	344614118454101	GW	2005-05-24				3347.71	NGVD29	1	USGS	D		S	S	A
+USGS	344614118454101	GW	2005-05-24				3350.68	NAVD88	1	USGS	D		S	S	A
+USGS	344614118454101	GW	2005-05-24			22.29			1	USGS	D		S	S	A
+USGS	344614118454101	GW	2006-03-30	23:00	UTC		3345.44	NGVD29	1	USGS	m		S	S	A
+USGS	344614118454101	GW	2006-03-30	23:00	UTC		3348.41	NAVD88	1	USGS	m		S	S	A
+USGS	344614118454101	GW	2006-03-30	23:00	UTC	24.56			1	USGS	m		S	S	A
+USGS	344614118454101	GW	2007-03-28	15:15	UTC		3345.42	NGVD29	1	USGS	m		S	S	A
+USGS	344614118454101	GW	2007-03-28	15:15	UTC		3348.39	NAVD88	1	USGS	m		S	S	A
+USGS	344614118454101	GW	2007-03-28	15:15	UTC	24.58			1	USGS	m		S	S	A
+USGS	344614118454101	GW	2008-03-25	20:05	UTC		3344.33	NGVD29	1	USGS	m		S	S	A
+USGS	344614118454101	GW	2008-03-25	20:05	UTC		3347.30	NAVD88	1	USGS	m		S	S	A
+USGS	344614118454101	GW	2008-03-25	20:05	UTC	25.67			1	USGS	m		S	S	A
+USGS	344614118454101	GW	2009-03-25	20:05	UTC		3343.22	NGVD29	1	USGS	m		S	S	A
+USGS	344614118454101	GW	2009-03-25	20:05	UTC		3346.19	NAVD88	1	USGS	m		S	S	A
+USGS	344614118454101	GW	2009-03-25	20:05	UTC	26.78			1	USGS	m		S	S	A
+USGS	344614118454101	GW	2010-03-24	16:00	UTC		3343.25	NGVD29	1	USGS	m		S	S	A
+USGS	344614118454101	GW	2010-03-24	16:00	UTC		3346.22	NAVD88	1	USGS	m		S	S	A
+USGS	344614118454101	GW	2010-03-24	16:00	UTC	26.75			1	USGS	m		S	S	A
+USGS	344614118454101	GW	2011-03-31	18:45	UTC		3343.75	NGVD29	1	USGS	m		S	S	A
+USGS	344614118454101	GW	2011-03-31	18:45	UTC		3346.72	NAVD88	1	USGS	m		S	S	A
+USGS	344614118454101	GW	2011-03-31	18:45	UTC	26.25			1	USGS	m		S	S	A
+USGS	344614118454101	GW	2012-03-21	00:50	UTC		3343.00	NGVD29	1	USGS	m		S	S	A
+USGS	344614118454101	GW	2012-03-21	00:50	UTC		3345.97	NAVD88	1	USGS	m		S	S	A
+USGS	344614118454101	GW	2012-03-21	00:50	UTC	27.00			1	USGS	m		S	S	A
+USGS	344614118454101	GW	2013-03-19	22:30	UTC		3341.82	NGVD29	1	USGS	m		S	S	A
+USGS	344614118454101	GW	2013-03-19	22:30	UTC		3344.79	NAVD88	1	USGS	m		S	S	A
+USGS	344614118454101	GW	2013-03-19	22:30	UTC	28.18			1	USGS	m		S	S	A
+USGS	344614118454101	GW	2014-03-11	23:16	UTC		3342.19	NGVD29	1	USGS	m		S	S	A
+USGS	344614118454101	GW	2014-03-11	23:16	UTC		3345.16	NAVD88	1	USGS	m		S	S	A
+USGS	344614118454101	GW	2014-03-11	23:16	UTC	27.81			1	USGS	m		S	S	A
+USGS	344614118454101	GW	2015-03-03	22:59	UTC		3341.97	NGVD29	1	USGS	m		S	S	A
+USGS	344614118454101	GW	2015-03-03	22:59	UTC		3344.94	NAVD88	1	USGS	m		S	S	A
+USGS	344614118454101	GW	2015-03-03	22:59	UTC	28.03			1	USGS	m		S	S	A
+USGS	344614118454101	GW	2016-04-01	18:11	UTC		3332.02	NGVD29	1	USGS	m		S	S	A
+USGS	344614118454101	GW	2016-04-01	18:11	UTC		3334.99	NAVD88	1	USGS	m		S	S	A
+USGS	344614118454101	GW	2016-04-01	18:11	UTC	28.01			1	USGS	m		S	S	A
+USGS	344614118454101	GW	2017-03-07	17:57	UTC		3331.49	NGVD29	1	USGS	m		S	S	A
+USGS	344614118454101	GW	2017-03-07	17:57	UTC		3334.46	NAVD88	1	USGS	m		S	S	A
+USGS	344614118454101	GW	2017-03-07	17:57	UTC	28.54			1	USGS	m		S	S	A
+USGS	344614118454101	GW	2018-03-20	21:19	UTC		3332.26	NGVD29	1	USGS	m		S	S	A
+USGS	344614118454101	GW	2018-03-20	21:19	UTC		3335.23	NAVD88	1	USGS	m		S	S	A
+USGS	344614118454101	GW	2018-03-20	21:19	UTC	27.77			1	USGS	m		S	S	A
+USGS	344614118454101	GW	2019-03-26	15:31	UTC		3332.23	NGVD29	1	USGS	m		S	S	A
+USGS	344614118454101	GW	2019-03-26	15:31	UTC		3335.20	NAVD88	1	USGS	m		S	S	A
+USGS	344614118454101	GW	2019-03-26	15:31	UTC	27.80			1	USGS	m		S	S	A
+USGS	344614118454101	GW	2020-04-28	21:58	UTC		3332.40	NGVD29	1	USGS	m		S	S	A
+USGS	344614118454101	GW	2020-04-28	21:58	UTC		3335.37	NAVD88	1	USGS	m		S	S	A
+USGS	344614118454101	GW	2020-04-28	21:58	UTC	27.63			1	USGS	m		S	S	A
