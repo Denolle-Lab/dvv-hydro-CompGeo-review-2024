@@ -1,0 +1,21 @@
+Region,Waves used,Single vs array method,Seismic frequencies (Hz),GWL change (m),Pore pressure (Pa),GWL estimate method,dv/v(%),Reference
+Southern California,coda,array,0.2-2,16,,Well,0.1,"Mao et al, 2022"
+California,coda,single,4-8,6,,Rainfall diffusion modeling,1.15,"Clements & Denolle, 2023"
+Southern California - San Gabriel,coda,array,2-5,25,,GW Well,0.15,"Clements and Denolle, 2018"
+New Zealand Landslide,coda,Small array,6-8,2,,Piezo @ seismometer borehole @ XM,2,"Voisin et al, 2016"
+"Lyon, France",coda,Small array,2-5,2,,Piezo,2.50,"Gaubert-Bastide et al, 2022"
+"Lyon, France",coda,Small array,3-20,3,,Piezo (~10m),2.50,"Voisin et al, 2017"
+"Ketzin, Germany, geothermal",coda,array,1.4-3,0.6,,Well (4 km),0.60,"Gassenmeier et al, 2015"
+"Texas, USA",coda,single,0.01-8,25,,extensometer-well,2,"Kim & Lekic, 2019"
+"Germany",Late coda,array,0.1-0.8,0.1,,"Well, and rain, discharge, runoff",0.01,"Lecoq et al, 2017 (*)"
+"Malta",coda,single,3-10,0.5,,"Well, Rainwater, limestone",1,Laudi et al 2023
+"CA, USA",Coda,Small array,4-15,1.5,,"sands, gravels, clays and silts",2.50,Rodriguez-Tribaldos
+"Dam, Australia",coda,Small array,20,0.3,2.6E3,Borehole piezometers,2,"Olivier et al, 2017"
+"Kyushu, Japan",Coda,array,0.1-0.39,,100,crust,0.02,"Wang et al, 2017"
+"OK, USA",coda,array,0.1-1,0.15,,Near surface environment,0.02,"Zheng et al, 2023"
+Greece,Coda 15-55s,single,0.3-1,2-5,,Karstic confined aquifers,0.03,"Delouche and Stehly, 2023"
+Italy,coda,array,0.1-0.9,100,25000,500-3500m,0.10,"Amalgro Vidal, et al 2021 ( pressure is shear stress on a low angle fault / mu = 0.6)"
+Germany,Coda 10-30s,Small array,1.5-3,0.4,,,0.20,"Gassenmeier et al, 2015"
+"Lyon, FR","Direct surface wave, 0.4-1s",Small array,3-40,2.5,,Water table at 4-6 m,1.50,"Garambois et al, 2019"
+"Mojave, CA",Coda waves,array,0.1-2,12,,Water table at 5m,0.10,"Tsai, 2011 & Meier et al, 2010"
+"Taiwan",Coda waves,single,0.1-0.9,7,,GWL at 15m,0.4,"Feng et al, 2021"
