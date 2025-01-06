@@ -5,7 +5,6 @@ Southern California - San Gabriel,coda,array,2-5,25,,GW Well,0.15,"Clements and 
 New Zealand Landslide,coda,Small array,6-8,2,,Piezo @ seismometer borehole @ XM,2,"Voisin et al, 2016"
 "Lyon, France",coda,Small array,2-5,2,,Piezo,2.50,"Gaubert-Bastide et al, 2022"
 "Lyon, France",coda,Small array,3-20,3,,Piezo (~10m),2.50,"Voisin et al, 2017"
-"Ketzin, Germany, geothermal",coda,array,1.4-3,0.6,,Well (4 km),0.60,"Gassenmeier et al, 2015"
 "Texas, USA",coda,single,0.01-8,25,,extensometer-well,2,"Kim & Lekic, 2019"
 "Germany",Late coda,array,0.1-0.8,0.1,,"Well, and rain, discharge, runoff",0.01,"Lecoq et al, 2017 (*)"
 "Malta",coda,single,3-10,0.5,,"Well, Rainwater, limestone",1,Laudi et al 2023
